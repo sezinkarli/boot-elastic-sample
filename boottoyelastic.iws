@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25a1bf4c-8eca-4b34-ab1e-27e70be48162" name="Default" comment="" />
+    <list default="true" id="25a1bf4c-8eca-4b34-ab1e-27e70be48162" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\boottoyelastic.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\boottoyelastic.ipr" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\boottoyelastic.iws" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\_state\global-12" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\0\_state\state-24" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\0\index\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\0\index\segments_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\0\index\write.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\0\translog\translog-1425135934984" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\1\_state\state-24" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\1\index\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\1\index\segments_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\1\index\write.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\1\translog\translog-1425135934979" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\_state\state-24" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\_6.cfe" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\_6.cfs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\_6.si" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\_7.cfe" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\_7.cfs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\_7.si" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\segments_8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\index\write.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\2\translog\translog-1425135934989" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\_state\state-24" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\_6.cfe" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\_6.cfs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\_6.si" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\_7.cfe" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\_7.cfs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\_7.si" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\segments_8" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\index\write.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\3\translog\translog-1425135934986" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\4\_state\state-24" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\4\index\segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\4\index\segments_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\4\index\write.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\4\translog\translog-1425135935946" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\indices\elastic_sample\_state\state-6" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\data\elasticsearch\nodes\0\node.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\projectFilesBackup\boottoyelastic.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\beren\Documents\GitHub\BootToyElastic\projectFilesBackup\boottoyelastic.ipr" afterPath="" />
+    </list>
     <ignored path="boottoyelastic.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="25a1bf4c-8eca-4b34-ab1e-27e70be48162" time="1425132531686" ignored="false" />
@@ -494,6 +540,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="boottoyelastic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boottoyelastic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootToyElastic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
