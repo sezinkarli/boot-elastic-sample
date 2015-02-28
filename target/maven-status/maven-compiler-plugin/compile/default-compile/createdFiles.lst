@@ -1,0 +1,5 @@
+main\service\MovieService.class
+main\model\Movie.class
+main\BootElastic.class
+main\model\Genre.class
+main\dao\MovieRepository.class
