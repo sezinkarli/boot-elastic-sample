@@ -17,7 +17,7 @@ import java.util.List;
 public class Movie {
 
     @Id
-    private Long id;
+    private String id;
 
     private String name;
 
@@ -34,7 +34,7 @@ public class Movie {
         this.rating = rating;
     }
 
-    public void setId(Long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -46,7 +46,7 @@ public class Movie {
         this.genre = genre;
     }
 
-    public Long getId() {
+    public String getId() {
         return id;
     }
 
